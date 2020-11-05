@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.web.WebView?>
+
+<VBox fx:id="mainWindow" alignment="CENTER" minHeight="370.0" minWidth="180.0" prefHeight="740.0" prefWidth="360.0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.santiagoucero.editorhtml.WebViewerController">
+   <children>
+      <WebView fx:id="web" minHeight="370.0" minWidth="180.0" prefHeight="740.0" prefWidth="360.0" />
+   </children>
+</VBox>
