@@ -28,7 +28,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 
 /**
- * @author Pablo Martínez y Santiago Ucero 
+ * @author Pablo Martínez y Santiago Ucero. Cesur 2ªDAM, Diseño de Interfaces
  */
 public class PrimaryController {
     
