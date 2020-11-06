@@ -9,7 +9,7 @@ import java.io.IOException;
 import javafx.scene.image.Image;
 
 /**
- * @author Pablo Martínez y Santiago Ucero 
+ * @author Pablo Martínez y Santiago Ucero. Cesur 2ªDAM, Diseño de Interfaces
  */
 public class App extends Application {
     
