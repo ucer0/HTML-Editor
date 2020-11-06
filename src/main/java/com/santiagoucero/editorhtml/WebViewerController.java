@@ -14,7 +14,7 @@ import javafx.scene.web.WebView;
 /**
  * FXML Controller class
  *
- * @author Pablo Martinez y Santiago Ucero
+ * @author Pablo Martinez y Santiago Ucero. Cesur 2ªDAM, Diseño de Interfaces
  */
 public class WebViewerController implements Initializable {
     
